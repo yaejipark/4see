@@ -1,24 +1,25 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="4see.studio" resolutions="1x" timestamp="1564656275158">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="4see.studio" resolutions="1x" timestamp="1564978954246">
   <folder name="css">
-    <file name="site_global.css" crc="3994819905"/>
-    <file name="index.css" crc="106000485" ref="index"/>
-    <file name="nomq_index.css" crc="459312879" ref="index"/>
+    <file name="site_global.css" crc="3893641289"/>
+    <file name="index.css" crc="214018637" ref="index"/>
+    <file name="nomq_index.css" crc="4034383901" ref="index"/>
+    <file name="contact.css" crc="231997095" ref="contact"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact"/>
+    <file name="museutils.js" crc="340535759" ref="index:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact"/>
+    <file name="museconfig.js" crc="310584261" ref="index:contact"/>
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:contact"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index:contact"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="4108208739" ref="index"/>
@@ -299,5 +300,6 @@
     <file name="dribbble_idcoffee_poster-u23823-fr4.jpg" crc="3875804963" ref="index"/>
     <file name="redduck_calendar2-u23814-fr4.jpg" crc="96086944" ref="index"/>
   </folder>
-  <file name="index.html" crc="3840167073" seo="true" mt="1564656246281" redirect="true"/>
+  <file name="index.html" crc="3899205" seo="true" mt="1564975259478" redirect="true"/>
+  <file name="contact.html" crc="4152050810" seo="true" mt="1564978908192" redirect="true"/>
 </manifest>
