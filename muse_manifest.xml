@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="4see.studio" resolutions="1x" timestamp="1565071181831">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="4see.studio" resolutions="1x" timestamp="1565074598662">
   <folder name="css">
     <file name="site_global.css" crc="3893641289"/>
-    <file name="index.css" crc="4028317675" ref="index"/>
-    <file name="nomq_index.css" crc="75853704" ref="index"/>
-    <file name="about.css" crc="4229770595" ref="about"/>
-    <file name="nomq_about.css" crc="194819874" ref="about"/>
+    <file name="index.css" crc="4222991506" ref="index"/>
+    <file name="nomq_index.css" crc="4122858684" ref="index"/>
+    <file name="about.css" crc="435371170" ref="about"/>
+    <file name="nomq_about.css" crc="104952889" ref="about"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about"/>
@@ -528,6 +528,6 @@
     </file>
     <file name="4see_logo_white_poster_.png" crc="48595419" ref="about"/>
   </folder>
-  <file name="index.html" crc="4023720598" seo="true" mt="1565071145554" redirect="true"/>
-  <file name="about.html" crc="4020339348" seo="true" mt="1565071134368" redirect="true"/>
+  <file name="index.html" crc="129295862" seo="true" mt="1565074567664" redirect="true"/>
+  <file name="about.html" crc="190349970" seo="true" mt="1565074447013" redirect="true"/>
 </manifest>
