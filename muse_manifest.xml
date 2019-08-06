@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="4see.studio" resolutions="1x" timestamp="1565102707286">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="4see.studio" resolutions="1x" timestamp="1565103917693">
   <folder name="css">
     <file name="site_global.css" crc="3994819905"/>
     <file name="index.css" crc="4005828945" ref="index"/>
@@ -659,7 +659,7 @@
     <file name="mobile_4see-law-u26071-fr3.jpg" crc="3818939254" ref="about"/>
     <file name="mobile_4see-law-u29260-fr.jpg" crc="4171606879" ref="about-kr"/>
   </folder>
-  <file name="index.html" crc="259219120" seo="true" mt="1565102565341" redirect="true"/>
-  <file name="about.html" crc="320080893" seo="true" mt="1565102571981" redirect="true"/>
-  <file name="about-kr.html" crc="3804704529" seo="true" mt="1565102578699" redirect="true"/>
+  <file name="index.html" crc="320864577" seo="true" mt="1565103866542" redirect="true"/>
+  <file name="about.html" crc="54824563" seo="true" mt="1565103874811" redirect="true"/>
+  <file name="about-kr.html" crc="117633968" seo="true" mt="1565103882124" redirect="true"/>
 </manifest>
