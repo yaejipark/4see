@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://4see.studio/index.html</loc>
-    <lastmod>2019-08-07</lastmod>
+    <lastmod>2019-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -13,12 +13,6 @@
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/ava_dogtag_web_branding.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/queenka_logo3000.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/koreadiaspora-web.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/ava_dogtag_web_landing_16-9.jpg</image:loc>
@@ -35,10 +29,16 @@
     <image:image>
       <image:loc>http://4see.studio/images/wkf.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/koreanwar.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/4see_queenka_branding.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://4see.studio/about.html</loc>
-    <lastmod>2019-08-07</lastmod>
+    <lastmod>2019-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -65,7 +65,7 @@
   </url>
   <url>
     <loc>http://4see.studio/about-kr.html</loc>
-    <lastmod>2019-08-07</lastmod>
+    <lastmod>2019-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -88,6 +88,15 @@
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/4see_logo_white.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://4see.studio/project.html</loc>
+    <lastmod>2019-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://4see.studio/images/4see_logo2.svg</image:loc>
     </image:image>
   </url>
   <url>
