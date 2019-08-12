@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="4see.studio" resolutions="1x" timestamp="1565578394653">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="4see.studio" resolutions="1x" timestamp="1565581986819">
   <folder name="css">
     <file name="site_global.css" crc="3994819905"/>
-    <file name="about.css" crc="4094408132" ref="about"/>
-    <file name="nomq_about.css" crc="102269861" ref="about"/>
-    <file name="project.css" crc="532776415" ref="project"/>
-    <file name="nomq_project.css" crc="4151504969" ref="project"/>
-    <file name="index.css" crc="276640904" ref="index"/>
-    <file name="nomq_index.css" crc="3880774770" ref="index"/>
-    <file name="about-kr.css" crc="4086599903" ref="about-kr"/>
-    <file name="nomq_about-kr.css" crc="368757168" ref="about-kr"/>
+    <file name="about.css" crc="3798222949" ref="about"/>
+    <file name="nomq_about.css" crc="3863437938" ref="about"/>
+    <file name="project.css" crc="273304727" ref="project"/>
+    <file name="nomq_project.css" crc="411123320" ref="project"/>
+    <file name="index.css" crc="3873044386" ref="index"/>
+    <file name="nomq_index.css" crc="269988475" ref="index"/>
+    <file name="about-kr.css" crc="4041911126" ref="about-kr"/>
+    <file name="nomq_about-kr.css" crc="458590167" ref="about-kr"/>
   </folder>
   <folder name="assets">
     <file name="4see_meta.jpg" crc="274633736" seo="true" mt="1565090103000"/>
@@ -30,7 +30,7 @@
     <file name="require.js" crc="7928878" ref="index:about:about-kr:project"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4108208739" ref="index:project"/>
+    <file name="favicon.ico" crc="4108208739" ref="index"/>
     <file name="4see_logo2.svg" crc="4103443128" seo="true" ref="index:about:about-kr:project">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -71,7 +71,7 @@
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
     </file>
-    <file name="4see_logo2_poster_.png" crc="3861041916" ref="index:project"/>
+    <file name="4see_logo2_poster_.png" crc="3861041916" ref="index"/>
     <file name="4see-draft_lanidng.jpg" crc="364989623" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -545,7 +545,7 @@
     <file name="4see_project_baby-u23816-fr4.jpg" crc="4191914606" ref="index"/>
     <file name="mobile_4see-law-u23866-fr2.jpg" crc="4149658025" ref="index:about:about-kr"/>
     <file name="mobile_4see-law-u23797-fr3.jpg" crc="4182062620" ref="index"/>
-    <file name="mobile_4see-u23799-fr3.jpg" crc="3975094197" ref="index"/>
+    <file name="mobile_4see-u23799-fr3.jpg" crc="3919759152" ref="index"/>
     <file name="dribbble_idcoffee_poster-u23823-fr5.jpg" crc="17165692" ref="index"/>
     <file name="ava_dogtag_sign-123k-u23818-fr4.jpg" crc="3818922615" ref="index"/>
     <file name="koreanwar-u23813-fr5.jpg" crc="232497544" ref="index"/>
@@ -578,7 +578,7 @@
     <file name="dentishower_logo-u27382-fr2.png" crc="4114441873" ref="index:about:about-kr"/>
     <file name="mobile_4see-law-u23866-fr3.jpg" crc="3776572898" ref="index"/>
     <file name="mobile_4see-law-u23797-fr4.jpg" crc="4239054535" ref="index"/>
-    <file name="mobile_4see-u23799-fr4.jpg" crc="51187556" ref="index"/>
+    <file name="mobile_4see-u23799-fr4.jpg" crc="3935389798" ref="index"/>
     <file name="dribbble_idcoffee_poster-u23823-fr6.jpg" crc="3853299257" ref="index"/>
     <file name="ava_dogtag_sign-123k-u23818-fr5.jpg" crc="3982863088" ref="index"/>
     <file name="koreanwar-u23813-fr6.jpg" crc="4103950327" ref="index"/>
@@ -611,25 +611,23 @@
     <file name="dentishower_logo-u27382-fr3.png" crc="207715699" ref="index:about:about-kr"/>
     <file name="mobile_4see-law-u23866-fr4.jpg" crc="3843023820" ref="index"/>
     <file name="4see_about_landing.jpg" crc="424729561" seo="true" ref="about:about-kr">
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="4see_about.jpg" crc="137234079" ref="about:about-kr">
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="branding.svg" crc="3929925983" ref="about:about-kr"/>
     <file name="branding_poster_u27046.png" crc="209368483" ref="about:about-kr"/>
@@ -640,29 +638,29 @@
     <file name="graphic.svg" crc="4143416727" ref="about:about-kr"/>
     <file name="graphic_poster_u27070.png" crc="8313131" ref="about:about-kr"/>
     <file name="4see_logo_white.svg" crc="4277892558" seo="true" ref="about:about-kr">
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="4see_logo_white_poster_.png" crc="48595419" ref="about"/>
-    <file name="4see_about-u26119-fr.jpg" crc="390951172" ref="about:about-kr"/>
+    <file name="4see_about-u26119-fr.jpg" crc="427364714" ref="about"/>
     <file name="queenka_logo-u25667-fr.png" crc="3959646902" ref="about:about-kr"/>
     <file name="mobile_4see-law-u26071-fr.jpg" crc="4080054912" ref="about:about-kr"/>
-    <file name="4see_about-u26119-fr2.jpg" crc="14848158" ref="about:about-kr"/>
-    <file name="4see_about-u26119-fr3.jpg" crc="12373104" ref="about:about-kr"/>
+    <file name="4see_about-u26119-fr2.jpg" crc="4247380981" ref="about"/>
+    <file name="4see_about-u26119-fr3.jpg" crc="390951172" ref="about:about-kr"/>
     <file name="mobile_4see-law-u26071-fr2.jpg" crc="182901314" ref="about"/>
-    <file name="4see_about-u26119-fr4.jpg" crc="12373104" ref="about-kr"/>
+    <file name="4see_about-u26119-fr4.jpg" crc="14848158" ref="about-kr:about"/>
     <file name="mobile_4see-law-u26071-fr3.jpg" crc="4016255541" ref="about"/>
-    <file name="mobile_4see-law-u29260-fr.jpg" crc="4171606879" ref="about-kr"/>
+    <file name="mobile_4see-law-u29260-fr.jpg" crc="3951810893" ref="about-kr"/>
     <file name="4see_project_danchea.jpg" crc="3798278645" ref="project">
       <caption webpage="project" alt=""/>
     </file>
@@ -857,9 +855,12 @@
     <file name="4see_project_3wheel-u31374-fr5.jpg" crc="410941367" ref="project"/>
     <file name="4see_project_diversy-u31373-fr5.jpg" crc="119911814" ref="project"/>
     <file name="4see_project_zinnokit-u31364-fr5.jpg" crc="4178752303" ref="project"/>
+    <file name="4see_about-u26119-fr5.jpg" crc="76948339" ref="about"/>
+    <file name="4see_about-u29167-fr.jpg" crc="365372708" ref="about-kr"/>
+    <file name="4see_about-u29167-fr2.jpg" crc="12373104" ref="about-kr"/>
   </folder>
-  <file name="index.html" crc="477703450" seo="true" mt="1565578220957" redirect="true"/>
-  <file name="about.html" crc="3830324524" seo="true" mt="1565578135501" redirect="true"/>
-  <file name="about-kr.html" crc="4029103024" seo="true" mt="1565509484625" redirect="true"/>
-  <file name="project.html" crc="26225824" seo="true" mt="1565578369158" redirect="true"/>
+  <file name="index.html" crc="59542176" seo="true" mt="1565581953403" redirect="true"/>
+  <file name="about.html" crc="199485369" seo="true" mt="1565580255344" redirect="true"/>
+  <file name="about-kr.html" crc="4079985767" seo="true" mt="1565581468514" redirect="true"/>
+  <file name="project.html" crc="4237736696" seo="true" mt="1565581064169" redirect="true"/>
 </manifest>
