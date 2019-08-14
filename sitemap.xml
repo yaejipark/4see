@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://4see.studio/index.html</loc>
-    <lastmod>2019-08-12</lastmod>
+    <lastmod>2019-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -37,33 +37,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://4see.studio/about.html</loc>
-    <lastmod>2019-08-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://4see.studio/images/4see_logo2.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/daewon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/kai_logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ebs.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/wkf.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/4see_about_landing.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/4see_logo_white.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://4see.studio/about-kr.html</loc>
     <lastmod>2019-08-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -91,12 +64,213 @@
     </image:image>
   </url>
   <url>
-    <loc>http://4see.studio/project.html</loc>
+    <loc>http://4see.studio/about.html</loc>
     <lastmod>2019-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://4see.studio/images/4see_logo2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/daewon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/kai_logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ebs.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/wkf.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/4see_about_landing.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/4see_logo_white.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://4see.studio/project.html</loc>
+    <lastmod>2019-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://4see.studio/images/4see_logo2.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://4see.studio/calendar.html</loc>
+    <lastmod>2019-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://4see.studio/images/4see_logo2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon-sep.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_feb.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_year.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_june.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_aug.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_dec.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_april.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_july.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_jan.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_oct.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black1024x683.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon-sep1024x803.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_feb1024x683.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_year1024x803.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_june1024x683.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_aug1024x803.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_dec1024x683.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_april1024x683.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_july1024x803.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_jan1024x803.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_oct1024x803.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black768x512.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon-sep768x602.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_feb768x512.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_year768x602.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_june768x512.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_aug768x602.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_dec768x512.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_april768x512.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_july768x602.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_jan768x602.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_oct768x602.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black414x276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon-sep414x325.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_feb414x276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_year414x325.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_june414x276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_aug414x325.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_dec414x276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_april414x276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_july414x325.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_jan414x325.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_oct414x325.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black375x250.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon-sep375x294.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_feb375x250.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_year375x294.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_june375x250.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_aug375x294.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_dec375x250.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_april375x250.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_july375x294.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_jan375x294.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_oct375x294.jpg</image:loc>
     </image:image>
   </url>
   <url>
