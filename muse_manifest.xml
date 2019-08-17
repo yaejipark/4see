@@ -1,105 +1,119 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="4see.studio" resolutions="1x" timestamp="1565842151006">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="4see.studio" resolutions="1x" timestamp="1566015711859">
   <folder name="css">
     <file name="site_global.css" crc="3994819905"/>
-    <file name="master_b-___.css" crc="473292366" ref="calendar:avabranding"/>
-    <file name="nomq_preview_master_b-___.css" crc="500272087" ref="calendar:avabranding"/>
-    <file name="about.css" crc="3798222949" ref="about"/>
-    <file name="nomq_about.css" crc="3863437938" ref="about"/>
-    <file name="calendar.css" crc="4159007344" ref="calendar"/>
-    <file name="nomq_calendar.css" crc="3980219769" ref="calendar"/>
-    <file name="project.css" crc="81192238" ref="project"/>
+    <file name="master_b-___.css" crc="3858144761" ref="avabranding:calendar:avaweb"/>
+    <file name="nomq_preview_master_b-___.css" crc="500272087" ref="avabranding:calendar:avaweb"/>
+    <file name="avabranding.css" crc="4075055117" ref="avabranding"/>
+    <file name="nomq_avabranding.css" crc="3958050316" ref="avabranding"/>
+    <file name="project.css" crc="349550421" ref="project"/>
     <file name="nomq_project.css" crc="3973290612" ref="project"/>
-    <file name="avabranding.css" crc="199443260" ref="avabranding"/>
-    <file name="nomq_avabranding.css" crc="3872986527" ref="avabranding"/>
-    <file name="index.css" crc="477305486" ref="index"/>
-    <file name="nomq_index.css" crc="9670906" ref="index"/>
-    <file name="about-kr.css" crc="4041911126" ref="about-kr"/>
-    <file name="nomq_about-kr.css" crc="458590167" ref="about-kr"/>
+    <file name="index.css" crc="3808257207" ref="index"/>
+    <file name="nomq_index.css" crc="4170811771" ref="index"/>
+    <file name="about.css" crc="145250223" ref="about"/>
+    <file name="nomq_about.css" crc="290684619" ref="about"/>
+    <file name="about-kr.css" crc="375916698" ref="about-kr"/>
+    <file name="nomq_about-kr.css" crc="3963722606" ref="about-kr"/>
+    <file name="calendar.css" crc="4171319503" ref="calendar"/>
+    <file name="nomq_calendar.css" crc="3980219769" ref="calendar"/>
+    <file name="avaweb.css" crc="3924029423" ref="avaweb"/>
+    <file name="nomq_avaweb.css" crc="153549317" ref="avaweb"/>
   </folder>
   <folder name="assets">
     <file name="4see_meta.jpg" crc="274633736" seo="true" mt="1565090103000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:about-kr:project:calendar:avabranding"/>
-    <file name="museutils.js" crc="340535759" ref="index:about:about-kr:project:calendar:avabranding"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:about-kr:project:calendar:avabranding"/>
-    <file name="museconfig.js" crc="310584261" ref="index:about:about-kr:project:calendar:avabranding"/>
-    <file name="webpro.js" crc="4059564322" ref="index:about:about-kr:project:calendar:avabranding"/>
-    <file name="musewpdisclosure.js" crc="3883500470" ref="index:about:about-kr:project:calendar:avabranding"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:about-kr:project:calendar:avabranding:avaweb"/>
+    <file name="museutils.js" crc="340535759" ref="index:about:about-kr:project:calendar:avabranding:avaweb"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:about-kr:project:calendar:avabranding:avaweb"/>
+    <file name="museconfig.js" crc="310584261" ref="index:about:about-kr:project:calendar:avabranding:avaweb"/>
+    <file name="webpro.js" crc="4059564322" ref="index:about:about-kr:project:calendar:avabranding:avaweb"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:about:about-kr:project:calendar:avabranding:avaweb"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index:about:about-kr"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index:about:about-kr"/>
     <file name="touchswipe.js" crc="4075097462" ref="index:about:about-kr"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:about:about-kr:project"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:about:about-kr:project:calendar:avabranding"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about:about-kr:project:calendar:avabranding:avaweb"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="index:about:about-kr"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:about:about-kr:project:calendar:avabranding"/>
-    <file name="require.js" crc="7928878" ref="index:about:about-kr:project:calendar:avabranding"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:about:about-kr:project:calendar:avabranding:avaweb"/>
+    <file name="require.js" crc="7928878" ref="index:about:about-kr:project:calendar:avabranding:avaweb"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="4108208739" ref="index"/>
-    <file name="4see_logo2.svg" crc="4103443128" seo="true" ref="index:about:about-kr:project:calendar:avabranding">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
+    <file name="4see_logo2.svg" crc="4103443128" seo="true" ref="index:about:about-kr:project:calendar:avabranding:avaweb">
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="avabranding" alt=""/>
-      <caption webpage="avabranding" alt=""/>
-      <caption webpage="avabranding" alt=""/>
-      <caption webpage="avabranding" alt=""/>
-      <caption webpage="avabranding" alt=""/>
-      <caption webpage="avabranding" alt=""/>
-      <caption webpage="avabranding" alt=""/>
-      <caption webpage="avabranding" alt=""/>
-      <caption webpage="avabranding" alt=""/>
-      <caption webpage="avabranding" alt=""/>
-      <caption webpage="avabranding" alt=""/>
-      <caption webpage="avabranding" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
+      <caption webpage="avabranding" alt=""/>
+      <caption webpage="avabranding" alt=""/>
+      <caption webpage="avabranding" alt=""/>
+      <caption webpage="avabranding" alt=""/>
+      <caption webpage="avabranding" alt=""/>
+      <caption webpage="avabranding" alt=""/>
+      <caption webpage="avabranding" alt=""/>
+      <caption webpage="avabranding" alt=""/>
+      <caption webpage="avabranding" alt=""/>
+      <caption webpage="avabranding" alt=""/>
+      <caption webpage="avabranding" alt=""/>
+      <caption webpage="avabranding" alt=""/>
     </file>
     <file name="4see_logo2_poster_.png" crc="3861041916" ref="index"/>
     <file name="4see-draft_lanidng.jpg" crc="364989623" seo="true" ref="index">
@@ -107,7 +121,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:about:about-kr:project:calendar:avabranding"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:about-kr:project:calendar:avabranding:avaweb"/>
     <file name="4see_queenka_branding.jpg" crc="120113582" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -137,7 +151,11 @@
     <file name="ava_dogtag_sign-123k.jpg" crc="123290452" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="koreanwar-u23813-fr.jpg" crc="145760932" ref="index"/>
+    <file name="4ee_avadogtag_web.jpg" crc="3862721805" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="gunsonfire_cover-u23814-fr.jpg" crc="199596483" ref="index"/>
     <file name="4see_project_danchea-u23820-fr.jpg" crc="159354353" ref="index"/>
     <file name="queenka_logo3000.png" crc="3762257370" ref="index">
@@ -145,7 +163,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="4see_project_rooy_runningman-u23825-fr.jpg" crc="4142367957" ref="index"/>
+    <file name="mc_backgound-u23825-fr.jpg" crc="51174413" ref="index"/>
     <file name="redduck_calendar_black_may-u23816-fr.jpg" crc="3922049852" ref="index"/>
     <file name="4see-landing.jpg" crc="52846984" ref="index">
       <caption webpage="index" alt=""/>
@@ -154,12 +172,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="rooy_logo.png" crc="529927914" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
@@ -167,14 +185,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="hyundai.png" crc="3979448338" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
@@ -182,14 +200,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="metroconflict_logo.png" crc="3984489851" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
@@ -197,14 +215,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="daewon.png" crc="366127696" seo="true" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
@@ -214,18 +232,18 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="idcoffee_logo.png" crc="121681045" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
@@ -233,39 +251,39 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="whitehouse.png" crc="162318112" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="danae_logo2.png" crc="3984027581" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="eyecenter.png" crc="306027438" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
@@ -273,14 +291,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="gunsonfire_logo.png" crc="3990471948" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
@@ -288,14 +306,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="then_logo.png" crc="279856639" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
@@ -303,14 +321,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="ava_dogtag_logo2.png" crc="491619253" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
@@ -318,14 +336,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="kai_logo.png" crc="356487604" seo="true" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
@@ -335,29 +353,29 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="danchea.png" crc="4283608688" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="xsolla_logo.png" crc="4042804466" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
@@ -365,14 +383,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="part.png" crc="4241906192" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
@@ -380,14 +398,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="scent_coffee_logo.png" crc="338111153" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
@@ -395,14 +413,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="ebs.png" crc="146705738" seo="true" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
@@ -412,18 +430,18 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="redduck.png" crc="501552890" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
@@ -431,14 +449,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="cellon_skin.png" crc="4016460581" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
@@ -446,28 +464,28 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="dentishower_logo.png" crc="118520248" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="knua.png" crc="4111155938" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
@@ -475,28 +493,28 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="zinnokit_logo.png" crc="374639756" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="wkf.png" crc="416248937" seo="true" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
@@ -506,18 +524,18 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="snuh.png" crc="4206078823" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
@@ -525,24 +543,23 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="mobile_4see-law.jpg" crc="71080350" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
     </file>
     <file name="dribbble_idcoffee_poster-u23823-fr.jpg" crc="3785159114" ref="index"/>
     <file name="ava_dogtag_sign-123k-u23818-fr.jpg" crc="59959564" ref="index"/>
-    <file name="koreanwar-u23813-fr2.jpg" crc="488450505" ref="index"/>
     <file name="gunsonfire_cover-u23814-fr2.jpg" crc="483402963" ref="index"/>
     <file name="4see_project_danchea-u23820-fr2.jpg" crc="3768663312" ref="index"/>
-    <file name="4see_project_rooy_runningman-u23825-fr2.jpg" crc="3863266049" ref="index"/>
+    <file name="mc_backgound-u23825-fr2.jpg" crc="4271359315" ref="index"/>
     <file name="redduck_calendar_black_may-u23816-fr2.jpg" crc="224405956" ref="index"/>
     <file name="queenka_logo-u27389-fr.png" crc="489647096" ref="index"/>
     <file name="whitehouse-u27403-fr.png" crc="525662291" ref="index"/>
@@ -553,11 +570,11 @@
     <file name="mobile_4see-law-u23797-fr.jpg" crc="4175175520" ref="index:about-kr"/>
     <file name="dribbble_idcoffee_poster-u23823-fr2.jpg" crc="238070584" ref="index"/>
     <file name="ava_dogtag_sign-123k-u23818-fr2.jpg" crc="4086038820" ref="index"/>
-    <file name="koreanwar-u23813-fr3.jpg" crc="4008094513" ref="index"/>
+    <file name="4ee_avadogtag_web-u23813-fr.jpg" crc="4188306408" ref="index"/>
     <file name="gunsonfire_cover-u23814-fr3.jpg" crc="3920858733" ref="index"/>
     <file name="4see_project_danchea-u23820-fr3.jpg" crc="183725234" ref="index"/>
     <file name="queenka_logo3000-u23819-fr.png" crc="4058927032" ref="index"/>
-    <file name="4see_project_rooy_runningman-u23825-fr3.jpg" crc="3872076333" ref="index"/>
+    <file name="mc_backgound-u23825-fr3.jpg" crc="265150698" ref="index"/>
     <file name="redduck_calendar_black_may-u23816-fr3.jpg" crc="3837730073" ref="index"/>
     <file name="mobile_4see-u23799-fr.jpg" crc="3958228911" ref="index"/>
     <file name="whitehouse-u27403-fr2.png" crc="133413251" ref="index:about:about-kr"/>
@@ -567,22 +584,22 @@
     <file name="mobile_4see-law-u23797-fr2.jpg" crc="3801399715" ref="index"/>
     <file name="dribbble_idcoffee_poster-u23823-fr3.jpg" crc="4275115030" ref="index"/>
     <file name="ava_dogtag_sign-123k-u23818-fr3.jpg" crc="4278021730" ref="index"/>
-    <file name="koreanwar-u23813-fr4.jpg" crc="269509117" ref="index"/>
+    <file name="4ee_avadogtag_web-u23813-fr2.jpg" crc="452277443" ref="index"/>
     <file name="gunsonfire_cover-u23814-fr4.jpg" crc="4267400776" ref="index"/>
     <file name="4see_project_danchea-u23820-fr4.jpg" crc="3894221921" ref="index"/>
     <file name="queenka_logo3000-u23819-fr2.png" crc="160428319" ref="index"/>
-    <file name="4see_project_rooy_runningman-u23825-fr4.jpg" crc="246497045" ref="index"/>
+    <file name="mc_backgound-u23825-fr4.jpg" crc="4055978280" ref="index"/>
     <file name="redduck_calendar_black_may-u23816-fr4.jpg" crc="4051729835" ref="index"/>
     <file name="mobile_4see-u23799-fr2.jpg" crc="3906763553" ref="index"/>
     <file name="mobile_4see-law-u23866-fr2.jpg" crc="4149658025" ref="index:about:about-kr"/>
     <file name="mobile_4see-law-u23797-fr3.jpg" crc="4182062620" ref="index"/>
     <file name="dribbble_idcoffee_poster-u23823-fr4.jpg" crc="3847319900" ref="index"/>
     <file name="ava_dogtag_sign-123k-u23818-fr4.jpg" crc="3818922615" ref="index"/>
-    <file name="koreanwar-u23813-fr5.jpg" crc="232497544" ref="index"/>
+    <file name="4ee_avadogtag_web-u23813-fr3.jpg" crc="405815734" ref="index"/>
     <file name="gunsonfire_cover-u23814-fr5.jpg" crc="3788792679" ref="index"/>
     <file name="4see_project_danchea-u23820-fr5.jpg" crc="3849929119" ref="index"/>
     <file name="queenka_logo3000-u23819-fr3.png" crc="4025044373" ref="index"/>
-    <file name="4see_project_rooy_runningman-u23825-fr5.jpg" crc="469643991" ref="index"/>
+    <file name="mc_backgound-u23825-fr5.jpg" crc="527619745" ref="index"/>
     <file name="redduck_calendar_black_may-u23816-fr5.jpg" crc="271669588" ref="index"/>
     <file name="mobile_4see-u23799-fr3.jpg" crc="3919759152" ref="index"/>
     <file name="queenka_logo-u27389-fr3.png" crc="3926527928" ref="index:about:about-kr"/>
@@ -610,11 +627,11 @@
     <file name="mobile_4see-law-u23797-fr4.jpg" crc="4239054535" ref="index"/>
     <file name="dribbble_idcoffee_poster-u23823-fr5.jpg" crc="251842960" ref="index"/>
     <file name="ava_dogtag_sign-123k-u23818-fr5.jpg" crc="3982863088" ref="index"/>
-    <file name="koreanwar-u23813-fr6.jpg" crc="4103950327" ref="index"/>
+    <file name="4ee_avadogtag_web-u23813-fr4.jpg" crc="3796019307" ref="index"/>
     <file name="gunsonfire_cover-u23814-fr6.jpg" crc="321590264" ref="index"/>
     <file name="4see_project_danchea-u23820-fr6.jpg" crc="3988444079" ref="index"/>
     <file name="queenka_logo3000-u23819-fr4.png" crc="307236071" ref="index"/>
-    <file name="4see_project_rooy_runningman-u23825-fr6.jpg" crc="4105203089" ref="index"/>
+    <file name="mc_backgound-u23825-fr6.jpg" crc="3790857005" ref="index"/>
     <file name="redduck_calendar_black_may-u23816-fr6.jpg" crc="388939241" ref="index"/>
     <file name="mobile_4see-u23799-fr4.jpg" crc="3935389798" ref="index"/>
     <file name="queenka_logo-u27389-fr4.png" crc="437316475" ref="index:about:about-kr"/>
@@ -640,18 +657,18 @@
     <file name="dentishower_logo-u27382-fr3.png" crc="207715699" ref="index:about:about-kr"/>
     <file name="mobile_4see-law-u23866-fr4.jpg" crc="3843023820" ref="index"/>
     <file name="4see_about_landing.jpg" crc="424729561" seo="true" ref="about:about-kr">
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="4see_about-u26119-fr.jpg" crc="427364714" ref="about"/>
     <file name="branding.svg" crc="3929925983" ref="about:about-kr"/>
@@ -663,25 +680,25 @@
     <file name="graphic.svg" crc="4143416727" ref="about:about-kr"/>
     <file name="graphic_poster_u27070.png" crc="8313131" ref="about:about-kr"/>
     <file name="4see_logo_white.svg" crc="4277892558" seo="true" ref="about:about-kr">
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="4see_logo_white_poster_.png" crc="48595419" ref="about"/>
     <file name="4see_about-u26119-fr2.jpg" crc="4247380981" ref="about"/>
     <file name="4see_about.jpg" crc="137234079" ref="about:about-kr">
-      <caption webpage="about-kr" alt=""/>
-      <caption webpage="about-kr" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about-kr" alt=""/>
+      <caption webpage="about-kr" alt=""/>
     </file>
     <file name="queenka_logo-u25667-fr.png" crc="3959646902" ref="about:about-kr"/>
     <file name="mobile_4see-law-u26071-fr.jpg" crc="4080054912" ref="about:about-kr"/>
@@ -1053,28 +1070,11 @@
     <file name="calendar_horizon_oct375x294.jpg" crc="347858112" seo="true" ref="calendar">
       <caption webpage="calendar" alt=""/>
     </file>
-    <file name="avadogtag_prot2.jpg" crc="151786154" seo="true" ref="avabranding">
-      <caption webpage="avabranding" alt=""/>
-    </file>
     <file name="ava_dogtag_branding_sset-100k.jpg" crc="490602799" seo="true" ref="avabranding">
-      <caption webpage="avabranding" alt=""/>
-    </file>
-    <file name="ava_logo_previous.jpg" crc="3800085920" seo="true" ref="avabranding">
-      <caption webpage="avabranding" alt=""/>
-      <caption webpage="avabranding" alt=""/>
-      <caption webpage="avabranding" alt=""/>
-      <caption webpage="avabranding" alt=""/>
-      <caption webpage="avabranding" alt=""/>
-      <caption webpage="avabranding" alt=""/>
-    </file>
-    <file name="avadogtag_port.jpg" crc="450205462" seo="true" ref="avabranding">
       <caption webpage="avabranding" alt=""/>
     </file>
     <file name="ava_dogtag_poster3.jpg" crc="3900350203" seo="true" ref="avabranding">
       <caption webpage="avabranding" alt=""/>
-      <caption webpage="avabranding" alt=""/>
-    </file>
-    <file name="avadogtag_photography.jpg" crc="4139123849" seo="true" ref="avabranding">
       <caption webpage="avabranding" alt=""/>
     </file>
     <file name="ava_dogtag_tshirts2-web.jpg" crc="176160180" seo="true" ref="avabranding">
@@ -1099,16 +1099,7 @@
     <file name="dogtag_namecard.jpg" crc="3918436090" seo="true" ref="avabranding">
       <caption webpage="avabranding" alt=""/>
     </file>
-    <file name="avadogtag_prot21280x720.jpg" crc="151786154" seo="true" ref="avabranding">
-      <caption webpage="avabranding" alt=""/>
-    </file>
     <file name="ava_dogtag_branding_sset-100k1280x842.jpg" crc="490602799" seo="true" ref="avabranding">
-      <caption webpage="avabranding" alt=""/>
-    </file>
-    <file name="avadogtag_port1280x720.jpg" crc="450205462" seo="true" ref="avabranding">
-      <caption webpage="avabranding" alt=""/>
-    </file>
-    <file name="avadogtag_photography1280x720.jpg" crc="4139123849" seo="true" ref="avabranding">
       <caption webpage="avabranding" alt=""/>
     </file>
     <file name="ava_dogtag_tshirts2-web1280x829.jpg" crc="176160180" seo="true" ref="avabranding">
@@ -1129,19 +1120,10 @@
     <file name="dogtag_namecard1280x854.jpg" crc="3918436090" seo="true" ref="avabranding">
       <caption webpage="avabranding" alt=""/>
     </file>
-    <file name="avadogtag_prot21024x576.jpg" crc="3966835175" seo="true" ref="avabranding">
-      <caption webpage="avabranding" alt=""/>
-    </file>
     <file name="ava_dogtag_branding_sset-100k1024x674.jpg" crc="490602799" seo="true" ref="avabranding">
       <caption webpage="avabranding" alt=""/>
     </file>
-    <file name="avadogtag_port1024x576.jpg" crc="302352987" seo="true" ref="avabranding">
-      <caption webpage="avabranding" alt=""/>
-    </file>
     <file name="ava_dogtag_poster31024x1352.jpg" crc="3991759428" seo="true" ref="avabranding">
-      <caption webpage="avabranding" alt=""/>
-    </file>
-    <file name="avadogtag_photography1024x576.jpg" crc="4034744372" seo="true" ref="avabranding">
       <caption webpage="avabranding" alt=""/>
     </file>
     <file name="ava_dogtag_tshirts2-web1024x663.jpg" crc="378371466" seo="true" ref="avabranding">
@@ -1165,19 +1147,10 @@
     <file name="dogtag_namecard1024x683.jpg" crc="4063352970" seo="true" ref="avabranding">
       <caption webpage="avabranding" alt=""/>
     </file>
-    <file name="avadogtag_prot2768x432.jpg" crc="3817680268" seo="true" ref="avabranding">
-      <caption webpage="avabranding" alt=""/>
-    </file>
     <file name="ava_dogtag_branding_sset-100k768x505.jpg" crc="3833131297" seo="true" ref="avabranding">
       <caption webpage="avabranding" alt=""/>
     </file>
-    <file name="avadogtag_port768x432.jpg" crc="4067741329" seo="true" ref="avabranding">
-      <caption webpage="avabranding" alt=""/>
-    </file>
     <file name="ava_dogtag_poster3768x1014.jpg" crc="30956148" seo="true" ref="avabranding">
-      <caption webpage="avabranding" alt=""/>
-    </file>
-    <file name="avadogtag_photography768x432.jpg" crc="489184125" seo="true" ref="avabranding">
       <caption webpage="avabranding" alt=""/>
     </file>
     <file name="ava_dogtag_tshirts2-web768x498.jpg" crc="3915918306" seo="true" ref="avabranding">
@@ -1201,19 +1174,10 @@
     <file name="dogtag_namecard768x512.jpg" crc="55186874" seo="true" ref="avabranding">
       <caption webpage="avabranding" alt=""/>
     </file>
-    <file name="avadogtag_prot2414x233.jpg" crc="4173310073" seo="true" ref="avabranding">
-      <caption webpage="avabranding" alt=""/>
-    </file>
     <file name="ava_dogtag_branding_sset-100k414x273.jpg" crc="4103250939" seo="true" ref="avabranding">
       <caption webpage="avabranding" alt=""/>
     </file>
-    <file name="avadogtag_port414x233.jpg" crc="4271397063" seo="true" ref="avabranding">
-      <caption webpage="avabranding" alt=""/>
-    </file>
     <file name="ava_dogtag_poster3414x547.jpg" crc="4025489034" seo="true" ref="avabranding">
-      <caption webpage="avabranding" alt=""/>
-    </file>
-    <file name="avadogtag_photography414x233.jpg" crc="26804263" seo="true" ref="avabranding">
       <caption webpage="avabranding" alt=""/>
     </file>
     <file name="ava_dogtag_tshirts2-web414x269.jpg" crc="4235723719" seo="true" ref="avabranding">
@@ -1237,19 +1201,10 @@
     <file name="dogtag_namecard414x276.jpg" crc="30014341" seo="true" ref="avabranding">
       <caption webpage="avabranding" alt=""/>
     </file>
-    <file name="avadogtag_prot2375x211.jpg" crc="26310731" seo="true" ref="avabranding">
-      <caption webpage="avabranding" alt=""/>
-    </file>
     <file name="ava_dogtag_branding_sset-100k375x247.jpg" crc="3893010488" seo="true" ref="avabranding">
       <caption webpage="avabranding" alt=""/>
     </file>
-    <file name="avadogtag_port375x211.jpg" crc="4089140185" seo="true" ref="avabranding">
-      <caption webpage="avabranding" alt=""/>
-    </file>
     <file name="ava_dogtag_poster3375x495.jpg" crc="384065456" seo="true" ref="avabranding">
-      <caption webpage="avabranding" alt=""/>
-    </file>
-    <file name="avadogtag_photography375x211.jpg" crc="4041417590" seo="true" ref="avabranding">
       <caption webpage="avabranding" alt=""/>
     </file>
     <file name="ava_dogtag_tshirts2-web375x243.jpg" crc="4119216755" seo="true" ref="avabranding">
@@ -1273,11 +1228,136 @@
     <file name="dogtag_namecard375x250.jpg" crc="3863753773" seo="true" ref="avabranding">
       <caption webpage="avabranding" alt=""/>
     </file>
+    <file name="mc_backgound.jpg" crc="375874350" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="landing_whole-–-1-crop-u34871.jpg" crc="3919009714" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="news_web.jpg" crc="335930412" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="media_web.jpg" crc="341525343" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="about_game_web.jpg" crc="167920134" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="ava_dogtag_3class.jpg" crc="501289149" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="ava_dogtag_application.jpg" crc="327852514" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="ava_dogtag_news.jpg" crc="335456765" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="ava_dogtag_media2.jpg" crc="4222770392" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="video_bak.jpg" crc="317528704" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="landing_whole-–-1-crop-u348712.jpg" crc="464520547" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="mc_backgound1024x768.jpg" crc="488889675" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="landing_whole-–-1.jpg" crc="111909986" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="mc_backgound768x576.jpg" crc="500780352" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="mc_backgound414x311.jpg" crc="488608295" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="landing_whole-–-1375x1546.jpg" crc="299678402" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="about_game_web375x1063.jpg" crc="3806580301" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="media_web375x853.jpg" crc="4107950297" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="news_web375x942.jpg" crc="3847788337" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="ava_dogtag_news375x282.jpg" crc="3987643880" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="ava_dogtag_3class375x282.jpg" crc="3927070767" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="ava_dogtag_application375x282.jpg" crc="3865753483" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="ava_dogtag_media375x282.jpg" crc="3885133449" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="mc_backgound375x282.jpg" crc="119282020" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="landing_whole-–-1340x1400.jpg" crc="54478149" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="about_game_web340x963.jpg" crc="369131324" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="media_web340x773.jpg" crc="4192875994" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="news_web340x853.jpg" crc="154317428" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="ava_dogtag_news340x255.jpg" crc="3993497472" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="ava_dogtag_3class340x255.jpg" crc="476448313" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="ava_dogtag_application340x255.jpg" crc="7086196" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+    </file>
+    <file name="ava_dogtag_media340x255.jpg" crc="409033038" seo="true" ref="avaweb">
+      <caption webpage="avaweb" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="105168902" seo="true" mt="1565842084957" redirect="true"/>
-  <file name="about.html" crc="4146625814" seo="true" mt="1565841088092" redirect="true"/>
-  <file name="about-kr.html" crc="276076650" seo="true" mt="1565581468514" redirect="true"/>
-  <file name="project.html" crc="3995499457" seo="true" mt="1565836078670" redirect="true"/>
-  <file name="calendar.html" crc="106633318" seo="true" mt="1565836459781" redirect="true"/>
-  <file name="avabranding.html" crc="433639637" seo="true" mt="1565838015184" redirect="true"/>
+  <file name="index.html" crc="232104084" seo="true" mt="1566015688370" redirect="true"/>
+  <file name="about.html" crc="35660552" seo="true" mt="1565841088092" redirect="true"/>
+  <file name="about-kr.html" crc="43819530" seo="true" mt="1565581468514" redirect="true"/>
+  <file name="project.html" crc="4105231000" seo="true" mt="1566015206321" redirect="true"/>
+  <file name="calendar.html" crc="4106123228" seo="true" mt="1565836459781" redirect="true"/>
+  <file name="avabranding.html" crc="172682513" seo="true" mt="1566014180873" redirect="true"/>
+  <file name="avaweb.html" crc="527030716" seo="true" mt="1566015167238" redirect="true"/>
 </manifest>

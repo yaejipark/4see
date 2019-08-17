@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://4see.studio/index.html</loc>
-    <lastmod>2019-08-15</lastmod>
+    <lastmod>2019-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -37,30 +37,12 @@
     </image:image>
   </url>
   <url>
-    <loc>http://4see.studio/about-kr.html</loc>
-    <lastmod>2019-08-12</lastmod>
+    <loc>http://4see.studio/project.html</loc>
+    <lastmod>2019-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://4see.studio/images/4see_logo2.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/daewon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/kai_logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ebs.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/wkf.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/4see_about_landing.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/4see_logo_white.svg</image:loc>
     </image:image>
   </url>
   <url>
@@ -88,6 +70,198 @@
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/4see_logo_white.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://4see.studio/about-kr.html</loc>
+    <lastmod>2019-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://4see.studio/images/4see_logo2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/daewon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/kai_logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ebs.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/wkf.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/4see_about_landing.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/4see_logo_white.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://4see.studio/avabranding.html</loc>
+    <lastmod>2019-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://4see.studio/images/4see_logo2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_branding_sset-100k.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_poster3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_tshirts2-web.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/avadogtag_profile_card-100k.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dogtag_namecard2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_sign2-180k.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_branding_copal_namecard.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_sign-123k2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dogtag_namecard.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_branding_sset-100k1280x842.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_tshirts2-web1280x829.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/avadogtag_profile_card-100k1280x854.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dogtag_namecard21280x854.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_sign2-180k1280x854.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_sign-123k1280x854.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dogtag_namecard1280x854.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_branding_sset-100k1024x674.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_poster31024x1352.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_tshirts2-web1024x663.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/avadogtag_profile_card-100k1024x683.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dogtag_namecard21024x683.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_sign2-180k1024x683.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_branding_copal_namecard1024x683.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_sign-123k1024x683.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dogtag_namecard1024x683.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_branding_sset-100k768x505.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_poster3768x1014.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_tshirts2-web768x498.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/avadogtag_profile_card-100k768x512.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dogtag_namecard2768x512.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_sign2-180k768x512.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_branding_copal_namecard768x512.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_sign-123k768x512.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dogtag_namecard768x512.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_branding_sset-100k414x273.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_poster3414x547.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_tshirts2-web414x269.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/avadogtag_profile_card-100k414x276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dogtag_namecard2414x276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_sign2-180k414x276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_branding_copal_namecard414x276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_sign-123k414x276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dogtag_namecard414x276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_branding_sset-100k375x247.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_poster3375x495.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_tshirts2-web375x243.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/avadogtag_profile_card-100k375x250.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dogtag_namecard2375x250.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_sign2-180k375x250.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_branding_copal_namecard375x250.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_sign-123k375x250.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dogtag_namecard375x250.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -265,234 +439,105 @@
     </image:image>
   </url>
   <url>
-    <loc>http://4see.studio/project.html</loc>
-    <lastmod>2019-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://4see.studio/images/4see_logo2.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://4see.studio/avabranding.html</loc>
-    <lastmod>2019-08-15</lastmod>
+    <loc>http://4see.studio/avaweb.html</loc>
+    <lastmod>2019-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://4see.studio/images/4see_logo2.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_prot2.jpg</image:loc>
+      <image:loc>http://4see.studio/images/mc_backgound.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_branding_sset-100k.jpg</image:loc>
+      <image:loc>http://4see.studio/images/landing_whole-%E2%80%93-1-crop-u34871.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/ava_logo_previous.jpg</image:loc>
+      <image:loc>http://4see.studio/images/news_web.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_port.jpg</image:loc>
+      <image:loc>http://4see.studio/images/media_web.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_poster3.jpg</image:loc>
+      <image:loc>http://4see.studio/images/about_game_web.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_photography.jpg</image:loc>
+      <image:loc>http://4see.studio/images/ava_dogtag_3class.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_tshirts2-web.jpg</image:loc>
+      <image:loc>http://4see.studio/images/ava_dogtag_application.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_profile_card-100k.jpg</image:loc>
+      <image:loc>http://4see.studio/images/ava_dogtag_news.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/dogtag_namecard2.jpg</image:loc>
+      <image:loc>http://4see.studio/images/ava_dogtag_media2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_sign2-180k.jpg</image:loc>
+      <image:loc>http://4see.studio/images/landing_whole-%E2%80%93-1-crop-u348712.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_branding_copal_namecard.jpg</image:loc>
+      <image:loc>http://4see.studio/images/mc_backgound1024x768.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_sign-123k2.jpg</image:loc>
+      <image:loc>http://4see.studio/images/landing_whole-%E2%80%93-1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/dogtag_namecard.jpg</image:loc>
+      <image:loc>http://4see.studio/images/mc_backgound768x576.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_prot21280x720.jpg</image:loc>
+      <image:loc>http://4see.studio/images/mc_backgound414x311.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_branding_sset-100k1280x842.jpg</image:loc>
+      <image:loc>http://4see.studio/images/landing_whole-%E2%80%93-1375x1546.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_port1280x720.jpg</image:loc>
+      <image:loc>http://4see.studio/images/about_game_web375x1063.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_photography1280x720.jpg</image:loc>
+      <image:loc>http://4see.studio/images/media_web375x853.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_tshirts2-web1280x829.jpg</image:loc>
+      <image:loc>http://4see.studio/images/news_web375x942.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_profile_card-100k1280x854.jpg</image:loc>
+      <image:loc>http://4see.studio/images/ava_dogtag_news375x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/dogtag_namecard21280x854.jpg</image:loc>
+      <image:loc>http://4see.studio/images/ava_dogtag_3class375x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_sign2-180k1280x854.jpg</image:loc>
+      <image:loc>http://4see.studio/images/ava_dogtag_application375x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_sign-123k1280x854.jpg</image:loc>
+      <image:loc>http://4see.studio/images/ava_dogtag_media375x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/dogtag_namecard1280x854.jpg</image:loc>
+      <image:loc>http://4see.studio/images/mc_backgound375x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_prot21024x576.jpg</image:loc>
+      <image:loc>http://4see.studio/images/landing_whole-%E2%80%93-1340x1400.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_branding_sset-100k1024x674.jpg</image:loc>
+      <image:loc>http://4see.studio/images/about_game_web340x963.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_port1024x576.jpg</image:loc>
+      <image:loc>http://4see.studio/images/media_web340x773.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_poster31024x1352.jpg</image:loc>
+      <image:loc>http://4see.studio/images/news_web340x853.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_photography1024x576.jpg</image:loc>
+      <image:loc>http://4see.studio/images/ava_dogtag_news340x255.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_tshirts2-web1024x663.jpg</image:loc>
+      <image:loc>http://4see.studio/images/ava_dogtag_3class340x255.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_profile_card-100k1024x683.jpg</image:loc>
+      <image:loc>http://4see.studio/images/ava_dogtag_application340x255.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/dogtag_namecard21024x683.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_sign2-180k1024x683.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_branding_copal_namecard1024x683.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_sign-123k1024x683.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/dogtag_namecard1024x683.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_prot2768x432.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_branding_sset-100k768x505.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_port768x432.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_poster3768x1014.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_photography768x432.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_tshirts2-web768x498.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_profile_card-100k768x512.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/dogtag_namecard2768x512.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_sign2-180k768x512.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_branding_copal_namecard768x512.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_sign-123k768x512.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/dogtag_namecard768x512.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_prot2414x233.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_branding_sset-100k414x273.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_port414x233.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_poster3414x547.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_photography414x233.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_tshirts2-web414x269.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_profile_card-100k414x276.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/dogtag_namecard2414x276.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_sign2-180k414x276.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_branding_copal_namecard414x276.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_sign-123k414x276.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/dogtag_namecard414x276.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_prot2375x211.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_branding_sset-100k375x247.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_port375x211.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_poster3375x495.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_photography375x211.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_tshirts2-web375x243.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/avadogtag_profile_card-100k375x250.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/dogtag_namecard2375x250.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_sign2-180k375x250.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_branding_copal_namecard375x250.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_sign-123k375x250.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/dogtag_namecard375x250.jpg</image:loc>
+      <image:loc>http://4see.studio/images/ava_dogtag_media340x255.jpg</image:loc>
     </image:image>
   </url>
   <url>
