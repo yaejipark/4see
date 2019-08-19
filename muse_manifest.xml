@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="4see.studio" resolutions="1x" timestamp="1566188040149">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="4see.studio" resolutions="1x" timestamp="1566188332223">
   <folder name="css">
     <file name="site_global.css" crc="3994819905"/>
     <file name="master_b-___.css" crc="247695263" ref="avaweb:avabranding:idcoffee:calendar"/>
@@ -11,7 +11,7 @@
     <file name="nomq_avabranding.css" crc="3958050316" ref="avabranding"/>
     <file name="idcoffee.css" crc="314735636" ref="idcoffee"/>
     <file name="nomq_idcoffee.css" crc="106527999" ref="idcoffee"/>
-    <file name="index.css" crc="263490852" ref="index"/>
+    <file name="index.css" crc="497166969" ref="index"/>
     <file name="nomq_index.css" crc="4293815641" ref="index"/>
     <file name="calendar.css" crc="4067001024" ref="calendar"/>
     <file name="nomq_calendar.css" crc="3980219769" ref="calendar"/>
@@ -48,18 +48,18 @@
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
       <caption webpage="project" alt=""/>
       <caption webpage="project" alt=""/>
       <caption webpage="project" alt=""/>
@@ -78,18 +78,18 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="avabranding" alt=""/>
       <caption webpage="avabranding" alt=""/>
       <caption webpage="avabranding" alt=""/>
@@ -1546,7 +1546,7 @@
       <caption webpage="idcoffee" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="505115467" seo="true" mt="1566187171273" redirect="true"/>
+  <file name="index.html" crc="3841884725" seo="true" mt="1566188302974" redirect="true"/>
   <file name="about.html" crc="261865799" seo="true" mt="1565841088092" redirect="true"/>
   <file name="about-kr.html" crc="4124449677" seo="true" mt="1565581468514" redirect="true"/>
   <file name="project.html" crc="184883901" seo="true" mt="1566187171270" redirect="true"/>
