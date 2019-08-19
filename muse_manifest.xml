@@ -1,14 +1,16 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="4see.studio" resolutions="1x" timestamp="1566187192671">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="4see.studio" resolutions="1x" timestamp="1566187537018">
   <folder name="css">
     <file name="site_global.css" crc="3994819905"/>
-    <file name="master_b-___.css" crc="247695263" ref="avaweb:avabranding:calendar"/>
-    <file name="nomq_preview_master_b-___.css" crc="500272087" ref="avaweb:avabranding:calendar"/>
+    <file name="master_b-___.css" crc="247695263" ref="avaweb:avabranding:idcoffee:calendar"/>
+    <file name="nomq_preview_master_b-___.css" crc="500272087" ref="avaweb:avabranding:idcoffee:calendar"/>
     <file name="avaweb.css" crc="27150690" ref="avaweb"/>
     <file name="nomq_avaweb.css" crc="153549317" ref="avaweb"/>
     <file name="about-kr.css" crc="3784022407" ref="about-kr"/>
     <file name="nomq_about-kr.css" crc="131046208" ref="about-kr"/>
     <file name="avabranding.css" crc="35158162" ref="avabranding"/>
     <file name="nomq_avabranding.css" crc="3958050316" ref="avabranding"/>
+    <file name="idcoffee.css" crc="166371281" ref="idcoffee"/>
+    <file name="nomq_idcoffee.css" crc="521870092" ref="idcoffee"/>
     <file name="index.css" crc="263490852" ref="index"/>
     <file name="nomq_index.css" crc="4293815641" ref="index"/>
     <file name="calendar.css" crc="4067001024" ref="calendar"/>
@@ -22,42 +24,42 @@
     <file name="4see_meta.jpg" crc="274633736" seo="true" mt="1565090103000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:about-kr:project:calendar:avabranding:avaweb"/>
-    <file name="museutils.js" crc="340535759" ref="index:about:about-kr:project:calendar:avabranding:avaweb"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:about-kr:project:calendar:avabranding:avaweb"/>
-    <file name="museconfig.js" crc="310584261" ref="index:about:about-kr:project:calendar:avabranding:avaweb"/>
-    <file name="webpro.js" crc="4059564322" ref="index:about:about-kr:project:calendar:avabranding:avaweb"/>
-    <file name="musewpdisclosure.js" crc="3883500470" ref="index:about:about-kr:project:calendar:avabranding:avaweb"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:about-kr:project:calendar:avabranding:avaweb:idcoffee"/>
+    <file name="museutils.js" crc="340535759" ref="index:about:about-kr:project:calendar:avabranding:avaweb:idcoffee"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:about-kr:project:calendar:avabranding:avaweb:idcoffee"/>
+    <file name="museconfig.js" crc="310584261" ref="index:about:about-kr:project:calendar:avabranding:avaweb:idcoffee"/>
+    <file name="webpro.js" crc="4059564322" ref="index:about:about-kr:project:calendar:avabranding:avaweb:idcoffee"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:about:about-kr:project:calendar:avabranding:avaweb:idcoffee"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index:about:about-kr"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index:about:about-kr"/>
     <file name="touchswipe.js" crc="4075097462" ref="index:about:about-kr"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:about:about-kr:project"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:about:about-kr:project:calendar:avabranding:avaweb"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about:about-kr:project:calendar:avabranding:avaweb:idcoffee"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="index:about:about-kr"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:about:about-kr:project:calendar:avabranding:avaweb"/>
-    <file name="require.js" crc="7928878" ref="index:about:about-kr:project:calendar:avabranding:avaweb"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:about:about-kr:project:calendar:avabranding:avaweb:idcoffee"/>
+    <file name="require.js" crc="7928878" ref="index:about:about-kr:project:calendar:avabranding:avaweb:idcoffee"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="4108208739" ref="index"/>
-    <file name="4see_logo2.svg" crc="4103443128" seo="true" ref="index:about:about-kr:project:calendar:avabranding:avaweb">
+    <file name="4see_logo2.svg" crc="4103443128" seo="true" ref="index:about:about-kr:project:calendar:avabranding:avaweb:idcoffee">
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
       <caption webpage="project" alt=""/>
       <caption webpage="project" alt=""/>
       <caption webpage="project" alt=""/>
@@ -76,18 +78,18 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="avabranding" alt=""/>
       <caption webpage="avabranding" alt=""/>
       <caption webpage="avabranding" alt=""/>
@@ -112,6 +114,18 @@
       <caption webpage="avaweb" alt=""/>
       <caption webpage="avaweb" alt=""/>
       <caption webpage="avaweb" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
     </file>
     <file name="4see_logo2_poster_.png" crc="3861041916" ref="index"/>
     <file name="4see-draft_lanidng.jpg" crc="364989623" seo="true" ref="index">
@@ -119,7 +133,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:about:about-kr:project:calendar:avabranding:avaweb"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:about-kr:project:calendar:avabranding:avaweb:idcoffee"/>
     <file name="4see_queenka_branding.jpg" crc="120113582" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -141,6 +155,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:about:about-kr"/>
+    <file name="idcoffee_namecard-u23823-fr.jpg" crc="4241659370" ref="index"/>
     <file name="4see_project_danchea-u23820-fr.jpg" crc="159354353" ref="index"/>
     <file name="ava_dogtag_sign-123k.jpg" crc="123290452" ref="index">
       <caption webpage="index" alt=""/>
@@ -544,6 +559,7 @@
     <file name="mobile_4see-law.jpg" crc="71080350" ref="index:about:about-kr">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="idcoffee_namecard-u23823-fr2.jpg" crc="183962845" ref="index"/>
     <file name="4see_project_danchea-u23820-fr2.jpg" crc="3768663312" ref="index"/>
     <file name="ava_dogtag_sign-123k-u23818-fr.jpg" crc="59959564" ref="index"/>
     <file name="mc_backgound-u23825-fr2.jpg" crc="165003306" ref="index"/>
@@ -556,6 +572,7 @@
     <file name="dentishower_logo-u27382-fr.png" crc="327096697" ref="index"/>
     <file name="zinnokit_logo-u27394-fr.png" crc="12451335" ref="index"/>
     <file name="mobile_4see-law-u23797-fr.jpg" crc="4175175520" ref="index:about-kr"/>
+    <file name="idcoffee_namecard-u23823-fr3.jpg" crc="375414260" ref="index"/>
     <file name="4see_project_danchea-u23820-fr3.jpg" crc="183725234" ref="index"/>
     <file name="ava_dogtag_sign-123k-u23818-fr2.jpg" crc="4086038820" ref="index"/>
     <file name="queenka_logo3000-u23819-fr.png" crc="4058927032" ref="index"/>
@@ -569,6 +586,7 @@
     <file name="danchea-u27381-fr2.png" crc="191144233" ref="index:about:about-kr"/>
     <file name="mobile_4see-law-u23866-fr.jpg" crc="4067412605" ref="index"/>
     <file name="mobile_4see-law-u23797-fr2.jpg" crc="3801399715" ref="index"/>
+    <file name="idcoffee_namecard-u23823-fr4.jpg" crc="197335107" ref="index"/>
     <file name="4see_project_danchea-u23820-fr4.jpg" crc="3894221921" ref="index"/>
     <file name="ava_dogtag_sign-123k-u23818-fr3.jpg" crc="4278021730" ref="index"/>
     <file name="queenka_logo3000-u23819-fr2.png" crc="160428319" ref="index"/>
@@ -579,6 +597,7 @@
     <file name="mobile_4see-u23799-fr2.jpg" crc="3906763553" ref="index"/>
     <file name="mobile_4see-law-u23866-fr2.jpg" crc="4149658025" ref="index:about:about-kr"/>
     <file name="mobile_4see-law-u23797-fr3.jpg" crc="4182062620" ref="index"/>
+    <file name="idcoffee_namecard-u23823-fr5.jpg" crc="4009371264" ref="index"/>
     <file name="ava_dogtag_sign-123k-u23818-fr4.jpg" crc="3792284987" ref="index"/>
     <file name="4ee_avadogtag_web-u23813-fr3.jpg" crc="402760819" ref="index"/>
     <file name="gunsonfire_cover-u23814-fr5.jpg" crc="42232586" ref="index"/>
@@ -687,6 +706,7 @@
     <file name="4see_project_danchea.jpg" crc="3798278645" ref="project">
       <caption webpage="project" alt=""/>
     </file>
+    <file name="idcoffee_namecard-u31260-fr.jpg" crc="129680667" ref="project"/>
     <file name="ava_dogtag_media.jpg" crc="285669940" ref="project">
       <caption webpage="project" alt=""/>
     </file>
@@ -748,6 +768,7 @@
       <caption webpage="project" alt=""/>
     </file>
     <file name="4see_project_danchea-u31258-fr.jpg" crc="85179906" ref="project"/>
+    <file name="idcoffee_namecard-u31260-fr2.jpg" crc="274728668" ref="project"/>
     <file name="ava_dogtag_media-u31273-fr.jpg" crc="4210302312" ref="project"/>
     <file name="ava_dogtag_branding_sset2-u31274-fr.jpg" crc="124499498" ref="project"/>
     <file name="redduck_calendar_black_may-u31254-fr.jpg" crc="394772152" ref="project"/>
@@ -771,6 +792,7 @@
     <file name="4see_project_diversy-u31373-fr.jpg" crc="3796122971" ref="project"/>
     <file name="4see_project_zinnokit-u31364-fr.jpg" crc="77835982" ref="project"/>
     <file name="4see_project_danchea-u31258-fr2.jpg" crc="67282338" ref="project"/>
+    <file name="idcoffee_namecard-u31260-fr3.jpg" crc="4242412806" ref="project"/>
     <file name="ava_dogtag_media-u31273-fr2.jpg" crc="3995418828" ref="project"/>
     <file name="ava_dogtag_branding_sset2-u31274-fr2.jpg" crc="474888194" ref="project"/>
     <file name="redduck_calendar_black_may-u31254-fr2.jpg" crc="4034824031" ref="project"/>
@@ -794,6 +816,7 @@
     <file name="4see_project_diversy-u31373-fr2.jpg" crc="4025278634" ref="project"/>
     <file name="4see_project_zinnokit-u31364-fr2.jpg" crc="524787530" ref="project"/>
     <file name="4see_project_danchea-u31258-fr3.jpg" crc="320708690" ref="project"/>
+    <file name="idcoffee_namecard-u31260-fr4.jpg" crc="427509069" ref="project"/>
     <file name="ava_dogtag_media-u31273-fr3.jpg" crc="236750039" ref="project"/>
     <file name="ava_dogtag_branding_sset2-u31274-fr3.jpg" crc="260987626" ref="project"/>
     <file name="redduck_calendar_black_may-u31254-fr3.jpg" crc="67228702" ref="project"/>
@@ -817,6 +840,7 @@
     <file name="4see_project_diversy-u31373-fr3.jpg" crc="4269011840" ref="project"/>
     <file name="4see_project_zinnokit-u31364-fr3.jpg" crc="3999441063" ref="project"/>
     <file name="4see_project_danchea-u31258-fr4.jpg" crc="68573179" ref="project"/>
+    <file name="idcoffee_namecard-u31260-fr5.jpg" crc="4209171018" ref="project"/>
     <file name="ava_dogtag_media-u31273-fr4.jpg" crc="366032843" ref="project"/>
     <file name="ava_dogtag_branding_sset2-u31274-fr4.jpg" crc="271194210" ref="project"/>
     <file name="redduck_calendar_black_may-u31254-fr4.jpg" crc="4009234438" ref="project"/>
@@ -840,6 +864,7 @@
     <file name="4see_project_diversy-u31373-fr4.jpg" crc="121738905" ref="project"/>
     <file name="4see_project_zinnokit-u31364-fr4.jpg" crc="4129831981" ref="project"/>
     <file name="4see_project_danchea-u31258-fr5.jpg" crc="529031057" ref="project"/>
+    <file name="idcoffee_namecard-u31260-fr6.jpg" crc="256804862" ref="project"/>
     <file name="ava_dogtag_media-u31273-fr5.jpg" crc="137366612" ref="project"/>
     <file name="ava_dogtag_branding_sset2-u31274-fr5.jpg" crc="89549087" ref="project"/>
     <file name="redduck_calendar_black_may-u31254-fr5.jpg" crc="4155059994" ref="project"/>
@@ -1320,23 +1345,213 @@
     <file name="ava_dogtag_media340x255.jpg" crc="409033038" seo="true" ref="avaweb">
       <caption webpage="avaweb" alt=""/>
     </file>
-    <file name="idcoffee_namecard-u23823-fr.jpg" crc="4241659370" ref="index"/>
-    <file name="idcoffee_namecard-u23823-fr2.jpg" crc="183962845" ref="index"/>
-    <file name="idcoffee_namecard-u23823-fr3.jpg" crc="375414260" ref="index"/>
-    <file name="idcoffee_namecard-u23823-fr4.jpg" crc="197335107" ref="index"/>
-    <file name="idcoffee_namecard-u23823-fr5.jpg" crc="4009371264" ref="index"/>
-    <file name="idcoffee_namecard-u31260-fr.jpg" crc="129680667" ref="project"/>
-    <file name="idcoffee_namecard-u31260-fr2.jpg" crc="274728668" ref="project"/>
-    <file name="idcoffee_namecard-u31260-fr3.jpg" crc="4242412806" ref="project"/>
-    <file name="idcoffee_namecard-u31260-fr4.jpg" crc="427509069" ref="project"/>
-    <file name="idcoffee_namecard-u31260-fr5.jpg" crc="4209171018" ref="project"/>
-    <file name="idcoffee_namecard-u31260-fr6.jpg" crc="256804862" ref="project"/>
+    <file name="idcoffee_interior.jpg" crc="3783641022" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_menu_interior.jpg" crc="10231715" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_cafe.jpg" crc="3889041465" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_jam.jpg" crc="44364219" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_pc.jpg" crc="4073897841" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_namecard.jpg" crc="4187213888" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_xbanner_menu.jpg" crc="4191948147" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_xbanner_.jpg" crc="3955013265" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_xbanner.jpg" crc="518620858" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_poster-3.jpg" crc="289658541" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_sandwitch.jpg" crc="3765309126" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_espresso.jpg" crc="205922512" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_bean_kenya.jpg" crc="263893151" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_cafe1280x960.jpg" crc="198031127" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_xbanner_menu283x536.jpg" crc="70104612" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_xbanner_283x536.jpg" crc="481412012" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_interior1024x684.jpg" crc="46680548" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_menu_interior1024x1083.jpg" crc="490097577" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_cafe1024x768.jpg" crc="3789326487" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_jam512x340.jpg" crc="394503678" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_pc512x340.jpg" crc="536131679" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_namecard1024x768.jpg" crc="4216192508" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_xbanner_menu226x429.jpg" crc="3896929901" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_xbanner_226x429.jpg" crc="434072219" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_xbanner573x429.jpg" crc="4264544149" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_poster-31024x733.jpg" crc="508893033" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_sandwitch482x482.jpg" crc="3764114389" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_espresso543x482.jpg" crc="246683055" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_bean_kenya1024x960.jpg" crc="4051240193" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_interior768x513.jpg" crc="366235293" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_menu_interior768x812.jpg" crc="465198681" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_cafe768x576.jpg" crc="128363193" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_namecard768x576.jpg" crc="113605404" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_poster-3768x550.jpg" crc="3816644870" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_bean_kenya768x720.jpg" crc="43177871" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_interior414x277.jpg" crc="500200716" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_menu_interior414x438.jpg" crc="3812825247" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_cafe414x311.jpg" crc="3960325470" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_namecard414x311.jpg" crc="101360886" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_poster-3414x297.jpg" crc="3759394228" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_espresso414x369.jpg" crc="429256018" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_pc414x275.jpg" crc="4261466554" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_sandwitch414x415.jpg" crc="485620399" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_jam414x275.jpg" crc="49540710" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_bean_kenya414x388.jpg" crc="44747068" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_xbanner414x310.jpg" crc="4262511527" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_xbanner_208x393.jpg" crc="84460030" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_xbanner_menu208x393.jpg" crc="4190621693" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_interior375x251.jpg" crc="4020390567" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_menu_interior375x397.jpg" crc="4055789498" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_cafe375x282.jpg" crc="389295268" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_namecard375x282.jpg" crc="4009371264" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_poster-3375x269.jpg" crc="4230604207" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_espresso375x334.jpg" crc="403769244" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_pc375x249.jpg" crc="226818749" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_sandwitch375x376.jpg" crc="3918949869" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_jam375x249.jpg" crc="310136292" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_bean_kenya375x352.jpg" crc="183787743" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_xbanner375x281.jpg" crc="213938126" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_xbanner_menu188x356.jpg" crc="129604466" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
+    <file name="idcoffee_xbanner_188x356.jpg" crc="47302230" seo="true" ref="idcoffee">
+      <caption webpage="idcoffee" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="233714727" seo="true" mt="1566187171273" redirect="true"/>
-  <file name="about.html" crc="71715089" seo="true" mt="1565841088092" redirect="true"/>
-  <file name="about-kr.html" crc="404415703" seo="true" mt="1565581468514" redirect="true"/>
-  <file name="project.html" crc="3883653501" seo="true" mt="1566187171270" redirect="true"/>
-  <file name="calendar.html" crc="305031854" seo="true" mt="1565836459781" redirect="true"/>
-  <file name="avabranding.html" crc="4159142221" seo="true" mt="1566014180873" redirect="true"/>
-  <file name="avaweb.html" crc="4186696520" seo="true" mt="1566015167238" redirect="true"/>
+  <file name="index.html" crc="505115467" seo="true" mt="1566187171273" redirect="true"/>
+  <file name="about.html" crc="261865799" seo="true" mt="1565841088092" redirect="true"/>
+  <file name="about-kr.html" crc="4124449677" seo="true" mt="1565581468514" redirect="true"/>
+  <file name="project.html" crc="184883901" seo="true" mt="1566187171270" redirect="true"/>
+  <file name="calendar.html" crc="4199694905" seo="true" mt="1565836459781" redirect="true"/>
+  <file name="avabranding.html" crc="360157098" seo="true" mt="1566014180873" redirect="true"/>
+  <file name="avaweb.html" crc="156669045" seo="true" mt="1566015167238" redirect="true"/>
+  <file name="idcoffee.html" crc="427877068" seo="true" mt="1566187452926" redirect="true"/>
 </manifest>
