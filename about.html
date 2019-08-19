@@ -20,13 +20,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>About</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3994819905"/>
-  <link rel="stylesheet" type="text/css" href="css/about.css?crc=145250223" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/about.css?crc=3996826339" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_about.css?crc=290684619" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_about.css?crc=4208819941" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- JS includes -->
-  <script src="https://use.typekit.net/ik/XIxXFLT4YbwKkC8qNNoD70pPSk-sbd6ru066kG14L3Xfe7tgfHcdc6GPHQJUF2MUw2MUWhwawhJ3ZQwXZRwkFDMDwR4RwcIhFQMuwRiRFcIaZAZyeKq7ORsDZA90SasuZe8zO2sDZA90SasuZe8zOYiaiktXShm8O1FXiAsTdkJwSY4zpe8ljPu0daZyJ68ciWsuScIlSYb7fbRKHyMMeMw6MKGHfO2IMsMMeM96MKG4fHvgIMMjgfMfH6qJxubbMs6BJM4HgIuuShAbMdRrapGB.js" type="text/javascript"></script>
+  <script src="https://use.typekit.net/ik/O9ZwlaRYcjWpsWP5-A8VtVUyaHWqRElK95h59EuqkDjfe7tgfHcdc6GPHQJUF2MUw2MUWhwawhJ3ZQwXZRwkFDMDwR4RwcIhFQMuwRiRFcIaZAZyeKq7ORsDZA90SasuZe8zO2sDZA90SasuZe8zOYiaiktXShm8O1FXiAsTdkJ4Z1mXiW4yOWgXJ6U3ScNt-AuyOAozicI7fbRxmgMMeM96MKG4f5J7IMIjMkMfH6GJCwbgIMIjgPMfH6qJn3IbMs6IJM4HgIuuShAbMZ7vE5GB.js" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    try {Typekit.load();} catch(e) {}
@@ -1365,14 +1365,14 @@ Muse.Utils.initWidget('#slideshowu25314', ['#bp_infinity', '#bp_1280', '#bp_1024
 Muse.Utils.initWidget('#accordionu26757', ['#bp_infinity', '#bp_1280', '#bp_1024', '#bp_768'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:false,defaultIndex:0}); });/* #accordionu26757 */
 Muse.Utils.initWidget('#accordionu28658', ['#bp_414', '#bp_375'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:false,defaultIndex:0}); });/* #accordionu28658 */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#bp_1024').one('muse_this_bp_activate', function(){
-$('#accordionu26757').registerOpacityScrollEffect([{"opacity":100,"fade":0,"in":[-Infinity,0]},{"opacity":100,"in":[0,0]},{"opacity":0,"fade":800,"in":[0,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
-$('#accordionu26757').registerOpacityScrollEffect([{"opacity":100,"fade":0,"in":[-Infinity,0]},{"opacity":100,"in":[0,0]},{"opacity":0,"fade":800,"in":[0,Infinity]}], $(this)); /* scroll effect */
+$('#accordionu26757').registerOpacityScrollEffect([{"in":[-Infinity,0],"opacity":100,"fade":0},{"opacity":100,"in":[0,0]},{"in":[0,Infinity],"opacity":0,"fade":800}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_1280').one('muse_this_bp_activate', function(){
-$('#accordionu26757').registerOpacityScrollEffect([{"opacity":100,"fade":0,"in":[-Infinity,0]},{"opacity":100,"in":[0,0]},{"opacity":0,"fade":800,"in":[0,Infinity]}], $(this)); /* scroll effect */
+$('#accordionu26757').registerOpacityScrollEffect([{"in":[-Infinity,0],"opacity":100,"fade":0},{"opacity":100,"in":[0,0]},{"in":[0,Infinity],"opacity":0,"fade":800}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_1024').one('muse_this_bp_activate', function(){
+$('#accordionu26757').registerOpacityScrollEffect([{"in":[-Infinity,0],"opacity":100,"fade":0},{"opacity":100,"in":[0,0]},{"in":[0,Infinity],"opacity":0,"fade":800}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
