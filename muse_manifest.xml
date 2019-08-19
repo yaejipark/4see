@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="4see.studio" resolutions="1x" timestamp="1566187537018">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="4see.studio" resolutions="1x" timestamp="1566188040149">
   <folder name="css">
     <file name="site_global.css" crc="3994819905"/>
     <file name="master_b-___.css" crc="247695263" ref="avaweb:avabranding:idcoffee:calendar"/>
@@ -9,8 +9,8 @@
     <file name="nomq_about-kr.css" crc="131046208" ref="about-kr"/>
     <file name="avabranding.css" crc="35158162" ref="avabranding"/>
     <file name="nomq_avabranding.css" crc="3958050316" ref="avabranding"/>
-    <file name="idcoffee.css" crc="166371281" ref="idcoffee"/>
-    <file name="nomq_idcoffee.css" crc="521870092" ref="idcoffee"/>
+    <file name="idcoffee.css" crc="314735636" ref="idcoffee"/>
+    <file name="nomq_idcoffee.css" crc="106527999" ref="idcoffee"/>
     <file name="index.css" crc="263490852" ref="index"/>
     <file name="nomq_index.css" crc="4293815641" ref="index"/>
     <file name="calendar.css" crc="4067001024" ref="calendar"/>
@@ -40,7 +40,7 @@
     <file name="require.js" crc="7928878" ref="index:about:about-kr:project:calendar:avabranding:avaweb:idcoffee"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4108208739" ref="index"/>
+    <file name="favicon.ico" crc="4108208739" ref="index:idcoffee"/>
     <file name="4see_logo2.svg" crc="4103443128" seo="true" ref="index:about:about-kr:project:calendar:avabranding:avaweb:idcoffee">
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
@@ -48,18 +48,18 @@
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
       <caption webpage="about-kr" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
-      <caption webpage="calendar" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="project" alt=""/>
       <caption webpage="project" alt=""/>
       <caption webpage="project" alt=""/>
@@ -78,18 +78,18 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
       <caption webpage="avabranding" alt=""/>
       <caption webpage="avabranding" alt=""/>
       <caption webpage="avabranding" alt=""/>
@@ -127,7 +127,7 @@
       <caption webpage="idcoffee" alt=""/>
       <caption webpage="idcoffee" alt=""/>
     </file>
-    <file name="4see_logo2_poster_.png" crc="3861041916" ref="index"/>
+    <file name="4see_logo2_poster_.png" crc="3861041916" ref="index:idcoffee"/>
     <file name="4see-draft_lanidng.jpg" crc="364989623" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1553,5 +1553,5 @@
   <file name="calendar.html" crc="4199694905" seo="true" mt="1565836459781" redirect="true"/>
   <file name="avabranding.html" crc="360157098" seo="true" mt="1566014180873" redirect="true"/>
   <file name="avaweb.html" crc="156669045" seo="true" mt="1566015167238" redirect="true"/>
-  <file name="idcoffee.html" crc="427877068" seo="true" mt="1566187452926" redirect="true"/>
+  <file name="idcoffee.html" crc="4215155050" seo="true" mt="1566188022166" redirect="true"/>
 </manifest>
