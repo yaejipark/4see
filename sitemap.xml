@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://4see.studio/index.html</loc>
-    <lastmod>2019-08-20</lastmod>
+    <lastmod>2019-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -24,21 +24,603 @@
       <image:loc>http://4see.studio/images/koreanwar.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_3.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://4see.studio/images/daewon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/daewon_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/kai_logo.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://4see.studio/images/kai_logo_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://4see.studio/images/ebs.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ebs_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/wkf.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/wkf_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/daewon131x29.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/daewon131x29_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/kai_logo102x67.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/kai_logo102x67_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ebs131x42.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ebs131x42_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/wkf117x58.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/wkf117x58_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/daewon122x27.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/daewon122x27_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/kai_logo96x63.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/kai_logo96x63_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ebs122x40.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ebs122x40_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/wkf110x54.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/wkf110x54_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/kai_logo97x64.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/kai_logo97x64_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/daewon124x27.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/daewon124x27_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ebs124x40.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ebs124x40_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/wkf112x55.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/wkf112x55_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/daewon136x30.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/daewon136x30_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/kai_logo106x70.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/kai_logo106x70_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ebs136x44.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ebs136x44_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/wkf122x60.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/wkf122x60_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/daewon95x21.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/daewon95x21_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/kai_logo75x49.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/kai_logo75x49_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ebs95x31.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ebs95x31_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/wkf86x42.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/wkf86x42_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://4see.studio/avaweb.html</loc>
+    <lastmod>2019-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://4see.studio/images/4see_logo2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/mc_backgound.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/landing_whole-%E2%80%93-1-crop-u34871.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/landing_whole-%E2%80%93-1-crop-u34871_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/news_web588x1475.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/news_web588x1475_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/media_web588x1336.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/media_web588x1336_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/about_game_web588x1665.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/about_game_web588x1665_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_3class587x441.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_3class587x441_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_application587x441.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_application587x441_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_news587x441.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_news587x441_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_media587x441.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_media587x441_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/landing_whole-%E2%80%93-1-crop-u348712.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/landing_whole-%E2%80%93-1-crop-u34871_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/news_web523x1311.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/news_web523x1311_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/media_web523x1188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/media_web523x1188_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/about_game_web523x1480.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/about_game_web523x1480_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_3class522x392.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_3class522x392_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_application522x392.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_application522x392_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_news522x392.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_news522x392_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_media522x392.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_media522x392_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/mc_backgound1024x768.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/landing_whole-%E2%80%93-1480x1978.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/landing_whole-%E2%80%93-1480x1978_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/news_web480x1205.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/news_web480x1205_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/media_web480x1091.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/media_web480x1091_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/about_game_web480x1360.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/about_game_web480x1360_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_3class480x360.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_3class480x360_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_application480x360.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_application480x360_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_news480x360.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_news480x360_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_media480x360.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_media480x360_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/mc_backgound768x576.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/landing_whole-%E2%80%93-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/landing_whole-%E2%80%93-1_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/about_game_web.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/about_game_web_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/media_web.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/media_web_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/news_web.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/news_web_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_news.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_news_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_3class.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_3class_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_application.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_application_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_media.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_media_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/mc_backgound414x311.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/landing_whole-%E2%80%93-1375x1546.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/landing_whole-%E2%80%93-1375x1546_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/about_game_web375x1063.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/about_game_web375x1063_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/media_web375x853.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/media_web375x853_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/news_web375x942.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/news_web375x942_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_news375x282.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_news375x282_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_3class375x282.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_3class375x282_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_application375x282.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_application375x282_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_media375x282.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_media375x282_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/mc_backgound375x282.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/landing_whole-%E2%80%93-1340x1400.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/landing_whole-%E2%80%93-1340x1400_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/about_game_web340x963.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/about_game_web340x963_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/media_web340x773.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/media_web340x773_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/news_web340x853.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/news_web340x853_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_news340x255.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_news340x255_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_3class340x255.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_3class340x255_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_application340x255.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_application340x255_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_media340x255.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_media340x255_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://4see.studio/about.html</loc>
+    <lastmod>2019-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://4see.studio/images/4see_logo2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/daewon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/daewon_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/kai_logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/kai_logo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ebs.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ebs_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/wkf.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/wkf_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/4see_about_landing.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/4see_logo_white.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/daewon125x27.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/daewon125x27_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/kai_logo98x64.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/kai_logo98x64_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ebs125x41.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ebs125x41_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/wkf113x56.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/wkf113x56_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/kai_logo68x45.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/kai_logo68x45_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/daewon87x19.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/daewon87x19_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ebs87x28.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ebs87x28_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/wkf78x39.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/wkf78x39_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://4see.studio/about-kr.html</loc>
+    <lastmod>2019-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://4see.studio/images/4see_logo2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/daewon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/daewon_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/kai_logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/kai_logo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ebs.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ebs_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/wkf.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/wkf_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/4see_about_landing.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/4see_logo_white.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://4see.studio/project.html</loc>
+    <lastmod>2019-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://4see.studio/images/4see_logo2.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://4see.studio/calendar.html</loc>
-    <lastmod>2019-08-15</lastmod>
+    <lastmod>2019-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -76,6 +658,39 @@
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/calendar_horizon_oct.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black1280x854.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon-sep1280x1004.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_feb1280x854.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_year1280x1004.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_june1280x854.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_aug1280x1004.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_dec1280x854.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redduck_calendar_black_april1280x854.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_july1280x1004.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_jan1280x1004.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/calendar_horizon_oct1280x1004.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/redduck_calendar_black1024x683.jpg</image:loc>
@@ -211,173 +826,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://4see.studio/about.html</loc>
-    <lastmod>2019-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://4see.studio/images/4see_logo2.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/daewon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/kai_logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ebs.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/wkf.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/4see_about_landing.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/4see_logo_white.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://4see.studio/about-kr.html</loc>
-    <lastmod>2019-08-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://4see.studio/images/4see_logo2.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/daewon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/kai_logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ebs.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/wkf.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/4see_about_landing.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/4see_logo_white.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://4see.studio/project.html</loc>
-    <lastmod>2019-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://4see.studio/images/4see_logo2.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://4see.studio/avaweb.html</loc>
-    <lastmod>2019-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://4see.studio/images/4see_logo2.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/mc_backgound.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/landing_whole-%E2%80%93-1-crop-u34871.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/news_web.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/media_web.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/about_game_web.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_3class.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_application.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_news.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_media2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/landing_whole-%E2%80%93-1-crop-u348712.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/mc_backgound1024x768.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/landing_whole-%E2%80%93-1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/mc_backgound768x576.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/mc_backgound414x311.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/landing_whole-%E2%80%93-1375x1546.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/about_game_web375x1063.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/media_web375x853.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/news_web375x942.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_news375x282.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_3class375x282.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_application375x282.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_media375x282.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/mc_backgound375x282.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/landing_whole-%E2%80%93-1340x1400.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/about_game_web340x963.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/media_web340x773.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/news_web340x853.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_news340x255.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_3class340x255.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_application340x255.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_media340x255.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://4see.studio/avabranding.html</loc>
-    <lastmod>2019-08-17</lastmod>
+    <lastmod>2019-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -405,13 +855,16 @@
       <image:loc>http://4see.studio/images/ava_dogtag_branding_copal_namecard.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/ava_dogtag_sign-123k2.jpg</image:loc>
+      <image:loc>http://4see.studio/images/ava_dogtag_sign-123k.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/dogtag_namecard.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/ava_dogtag_branding_sset-100k1280x842.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_poster31280x1690.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/ava_dogtag_tshirts2-web1280x829.jpg</image:loc>
@@ -424,6 +877,9 @@
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/ava_dogtag_sign2-180k1280x854.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/ava_dogtag_branding_copal_namecard1280x854.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/ava_dogtag_sign-123k1280x854.jpg</image:loc>
@@ -541,8 +997,107 @@
     </image:image>
   </url>
   <url>
+    <loc>http://4see.studio/resonance.html</loc>
+    <lastmod>2019-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://4see.studio/images/4see_logo2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/3wheel.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance_2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance_3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance-5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/3wheel1280x720.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance_21280x833.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance_31280x833.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance-41280x833.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance-51280x833.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/3wheel1024x576.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance_21024x667.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance_31024x667.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance-41024x667.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance-51024x667.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/3wheel768x432.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance_2768x500.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance_3768x500.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance-4768x500.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance-5768x500.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/3wheel414x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance_2414x270.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance_3414x270.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance-4414x270.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance-5414x270.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/3wheel375x211.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance_2375x244.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance_3375x244.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance-4375x244.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/resonance-5375x244.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://4see.studio/idcoffee.html</loc>
-    <lastmod>2019-08-19</lastmod>
+    <lastmod>2019-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -558,43 +1113,115 @@
       <image:loc>http://4see.studio/images/idcoffee_cafe.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/idcoffee_jam.jpg</image:loc>
+      <image:loc>http://4see.studio/images/idcoffee_jam720x477.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/idcoffee_pc.jpg</image:loc>
+      <image:loc>http://4see.studio/images/idcoffee_jam720x477_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_pc720x477.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_pc720x477_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/idcoffee_namecard.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/idcoffee_xbanner_menu.jpg</image:loc>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner_menu318x603.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/idcoffee_xbanner_.jpg</image:loc>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner_menu318x603_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner_318x603.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner_318x603_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/idcoffee_xbanner.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://4see.studio/images/idcoffee_poster-3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/idcoffee_sandwitch.jpg</image:loc>
+      <image:loc>http://4see.studio/images/idcoffee_sandwitch678x678.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://4see.studio/images/idcoffee_espresso.jpg</image:loc>
+      <image:loc>http://4see.studio/images/idcoffee_sandwitch678x678_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_espresso763x678.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_espresso763x678_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/idcoffee_bean_kenya.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_interior1280x854.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_menu_interior1280x1354.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://4see.studio/images/idcoffee_cafe1280x960.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_jam640x424.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_jam640x424_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_pc640x424.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_pc640x424_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_namecard1280x960.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/idcoffee_xbanner_menu283x536.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner_menu283x536_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://4see.studio/images/idcoffee_xbanner_283x536.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner_283x536_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner716x536.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner716x536_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_poster-31280x916.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_sandwitch603x603.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_sandwitch603x603_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_espresso678x603.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_espresso678x603_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_bean_kenya1280x1200.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/idcoffee_interior1024x684.jpg</image:loc>
@@ -609,7 +1236,13 @@
       <image:loc>http://4see.studio/images/idcoffee_jam512x340.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_jam512x340_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://4see.studio/images/idcoffee_pc512x340.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_pc512x340_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/idcoffee_namecard1024x768.jpg</image:loc>
@@ -618,10 +1251,19 @@
       <image:loc>http://4see.studio/images/idcoffee_xbanner_menu226x429.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner_menu226x429_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://4see.studio/images/idcoffee_xbanner_226x429.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner_226x429_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://4see.studio/images/idcoffee_xbanner573x429.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner573x429_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/idcoffee_poster-31024x733.jpg</image:loc>
@@ -630,7 +1272,13 @@
       <image:loc>http://4see.studio/images/idcoffee_sandwitch482x482.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_sandwitch482x482_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://4see.studio/images/idcoffee_espresso543x482.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_espresso543x482_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/idcoffee_bean_kenya1024x960.jpg</image:loc>
@@ -651,7 +1299,49 @@
       <image:loc>http://4see.studio/images/idcoffee_poster-3768x550.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_espresso.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_espresso_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_pc.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_pc_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_sandwitch.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_sandwitch_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_jam.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_jam_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner768x575.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner768x575_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://4see.studio/images/idcoffee_bean_kenya768x720.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner_.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner__2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner_menu.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner_menu_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/idcoffee_interior414x277.jpg</image:loc>
@@ -672,13 +1362,25 @@
       <image:loc>http://4see.studio/images/idcoffee_espresso414x369.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_espresso414x369_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://4see.studio/images/idcoffee_pc414x275.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_pc414x275_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/idcoffee_sandwitch414x415.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_sandwitch414x415_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://4see.studio/images/idcoffee_jam414x275.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_jam414x275_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/idcoffee_bean_kenya414x388.jpg</image:loc>
@@ -687,10 +1389,19 @@
       <image:loc>http://4see.studio/images/idcoffee_xbanner414x310.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner414x310_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://4see.studio/images/idcoffee_xbanner_208x393.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner_208x393_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://4see.studio/images/idcoffee_xbanner_menu208x393.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner_menu208x393_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/idcoffee_interior375x251.jpg</image:loc>
@@ -711,13 +1422,25 @@
       <image:loc>http://4see.studio/images/idcoffee_espresso375x334.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_espresso375x334_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://4see.studio/images/idcoffee_pc375x249.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_pc375x249_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/idcoffee_sandwitch375x376.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_sandwitch375x376_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://4see.studio/images/idcoffee_jam375x249.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_jam375x249_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/idcoffee_bean_kenya375x352.jpg</image:loc>
@@ -726,15 +1449,24 @@
       <image:loc>http://4see.studio/images/idcoffee_xbanner375x281.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner375x281_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://4see.studio/images/idcoffee_xbanner_menu188x356.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner_menu188x356_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/idcoffee_xbanner_188x356.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_xbanner_188x356_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://4see.studio/danchea.html</loc>
-    <lastmod>2019-08-20</lastmod>
+    <lastmod>2019-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -760,6 +1492,24 @@
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/danchea_shoppingbag.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/danchea_namecard1280x960.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/danchea_package_pink1280x960.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/danchea_packaging_1280x960.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/danchea_packaging_black1280x854.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/danchea_packaging_box1280x960.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/danchea_shoppingbag1280x854.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/4see_project_danchea1024x768.jpg</image:loc>
@@ -844,6 +1594,285 @@
     </image:image>
     <image:image>
       <image:loc>http://4see.studio/images/danchea_shoppingbag375x250.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://4see.studio/idcoffeeposter.html</loc>
+    <lastmod>2019-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://4see.studio/images/4see_logo2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_grap.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redbean_idcoffee.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee-berry1440x1097.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/waffle_idcoffee.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_lemon.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_grap1280x975.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redbean_idcoffee1280x854.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee-berry1280x975.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/waffle_idcoffee1280x854.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_lemon1280x975.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_grap1024x780.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redbean_idcoffee1024x683.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee-berry1024x780.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/waffle_idcoffee1024x683.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_lemon1024x780.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_grap768x585.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redbean_idcoffee768x512.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee-berry768x585.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/waffle_idcoffee768x512.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_lemon768x585.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_grap414x316.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redbean_idcoffee414x276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee-berry414x316.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/waffle_idcoffee414x276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_lemon414x316.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_grap375x286.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/redbean_idcoffee375x250.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee-berry375x286.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/waffle_idcoffee375x250.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/idcoffee_lemon375x286.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://4see.studio/resonance-%EC%82%AC%EB%B3%B8.html</loc>
+    <lastmod>2019-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://4see.studio/images/4see_logo2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dollroll_rong_1-crop-u37208.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dollroll_rong_2-crop-u37201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dollroll_long2_4-crop-u37193.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dollroll_rong_1-crop-u372082.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dollroll_rong_2-crop-u372012.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dollroll_long2_4-crop-u371932.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dollroll_rong_1-crop-u372083.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dollroll_rong_2-crop-u372013.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dollroll_long2_4-crop-u371933.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dollroll_rong_1-crop-u372084.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dollroll_rong_2-crop-u372014.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dollroll_long2_4768x1882.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dollroll_rong_1414x1159.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dollroll_rong_2-crop-u372015.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dollroll_long2_4414x1015.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dollroll_rong_1375x1050.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dollroll_rong_2375x1036.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/dollroll_long2_4375x919.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://4see.studio/resonance-%EC%82%AC%EB%B3%B8-%EC%82%AC%EB%B3%B8.html</loc>
+    <lastmod>2019-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://4see.studio/images/4see_logo2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_31280x706.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_21280x706.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_41280x706.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_61280x706.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_51280x706.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_11280x706.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_31024x565.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_21024x565.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_41024x565.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_61024x565.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_51024x565.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_11024x565.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_3768x424.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_2768x424.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_4768x424.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_6768x424.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_5768x424.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_1768x424.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_3414x229.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_2414x229.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_4414x229.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_6414x229.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_5414x229.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_1414x229.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_3375x207.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_2375x207.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_4375x207.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_6375x207.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_5375x207.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://4see.studio/images/whitehouse_1375x207.jpg</image:loc>
     </image:image>
   </url>
   <url>
